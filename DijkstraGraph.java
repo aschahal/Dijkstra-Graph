@@ -1,11 +1,3 @@
-// --== CS400 File Header Information ==--
-// Name: Amandeep Chahal
-// Email: aschahal@wisc.edu
-// Group and Team: <your group name: two letters, and team color>
-// Group TA: <name of your group's ta>
-// Lecturer: Peyman Morteza
-// Notes to Grader: <optional extra notes>
-
 import java.util.*;
 import java.util.PriorityQueue;
 import java.util.Hashtable;
